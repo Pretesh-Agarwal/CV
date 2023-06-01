@@ -1,0 +1,100 @@
+body {
+  background-color: aliceblue;
+}
+.Photo {
+  border-radius: 50%;
+  width: 40%;
+  height: 40;
+}
+.signature P {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+hr {
+  width: 60%;
+  border-style: ridge;
+  align: centre;
+  border-width: 1px;
+}
+
+/* Synopsis CSS starts*/
+.synopsis h4 {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blueviolet;
+  text-align: center;
+  font-weight: bolt;
+}
+.synopsis {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  text-align: justify;
+}
+/* Personal Quilities */
+.qualities h4 {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blueviolet;
+  text-align: center;
+  font-weight: bolt;
+}
+.qualities {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  text-align: justify;
+}
+.expertise h4 {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blueviolet;
+  text-align: center;
+  font-weight: bolt;
+}
+.expertise {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  text-align: justify;
+}
+.technical h4 {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blueviolet;
+  text-align: center;
+  font-weight: bolt;
+}
+.technical {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  text-align: justify;
+}
+.academic h4 {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blueviolet;
+  text-align: center;
+  font-weight: bolt;
+}
+.academic {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  text-align: justify;
+}
+.personal h4 {
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blueviolet;
+  text-align: center;
+  font-weight: bolt;
+}
+.personal {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+  text-align: justify;
+}
